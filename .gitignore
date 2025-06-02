@@ -19,7 +19,5 @@ obj
 *.tlog
 *.pch
 *.7z
-*.dll
 /x64/Release/log
-packages
 bin/
